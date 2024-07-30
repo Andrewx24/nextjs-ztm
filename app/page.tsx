@@ -5,6 +5,7 @@ export default function Home() {
 <main className="flex ">
 
   <h1> Coffee Store </h1>
+  <h1> Welcome</h1>
 </main>
   )
 }
